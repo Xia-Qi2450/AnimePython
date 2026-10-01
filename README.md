@@ -119,8 +119,8 @@ This vocabulary is expected to evolve as the language develops.
 Clone the repository and install it in editable mode:
 
 ```bash
-git clone <repository-url>
-cd animepython
+git clone https://github.com/Xia-Qi2450/AnimePython
+cd src/animepython
 
 python -m pip install -e ".[dev]"
 ```
