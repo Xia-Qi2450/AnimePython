@@ -120,7 +120,7 @@ Clone the repository and install it in editable mode:
 
 ```bash
 git clone https://github.com/Xia-Qi2450/AnimePython
-cd src/animepython
+cd animepython
 
 python -m pip install -e ".[dev]"
 ```
