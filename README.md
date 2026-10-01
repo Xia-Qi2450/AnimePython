@@ -146,7 +146,10 @@ animepython/
 ├── src/
 │   └── animepython/
 │       ├── __init__.py
-│       └── cli.py
+│       ├── cli.py
+│       ├── compiler.py
+│       ├── lexer.py
+│       └── transpiler.py
 │
 ├── tests/
 │   ├── test_lexer.py
@@ -154,7 +157,7 @@ animepython/
 │   └── test_compiler.py
 │
 └── examples/
-    └── hello.ani
+    └── hello.apy
 ```
 
 The project is divided into several planned components:
